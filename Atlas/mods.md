@@ -12,7 +12,7 @@ _A mod for admins._
 _Craft time appropriate furniture, kitchen items, and decorations for your servers!_
 <br>
 
-### [More Cropst](https://steamcommunity.com/sharedfiles/filedetails/?id=2272612361)
+### [More Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=2272612361)
 _Grow everything!_
 <br>
 
@@ -44,7 +44,7 @@ _Adds full ship repairing, improves NPC crew, and provides grid crossing protect
 _Your storage-solution in ATLAS!_
 <br>
 
-### [Supreme Customs](https://steamcommunity.com/sharedfiles/filedetails/?id=2732563785)
+### [Supreme Customs](https://steamcommunity.com/sharedfiles/filedetails/?id=3617420391)
 _Mod for the Supreme Gaming servers and community._
 <br>
 
@@ -71,3 +71,6 @@ _This mod is part of the mod: Klinger Additional Ships._
 ### [Klinger Additional Optimized Structures](https://steamcommunity.com/sharedfiles/filedetails/?id=2793077882)
 _A pack of structures with aggressive polygon optimization in order to improve player performance and the loading of giant bases and ports._
 <br>
+
+### [Rexs Admin Structures](https://steamcommunity.com/sharedfiles/filedetails/?id=3575701513)
+_Mod for the Supreme Gaming servers and community Made by Rex_
