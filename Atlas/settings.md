@@ -20,16 +20,12 @@ _These settings apply to most of the grids, with changes noted in sections below
 
 ---
 ## PvP Zone Settings
-_These setting only apply in grids A1, A2, A3, B1, B2, B3, C1, C2, and C3 which are designated PvP zones. Only the settings changed from above are listed._
+_These setting only apply in grid D7 which are designated PvP zones. Only the settings changed from above are listed._
 
-**XP** - _10x_ <br>
-**Taming** - _10x_ <br>
-**Harvest** - _10x_ <br>
-**Egg Hatch Speed** - _20x_ <br>
-**Baby Mature Speed** - _20x_ <br>
-**PvP War Timer** - _4 Hours_ <br>
-**Flotsam Quality Multipler** - _4x_ <br>
-**Treasure Gold Multiplier** - _3x_
+**Only 1 PvP Island<br>
+**Tame Flying disabled<br>
+**Rates are the same<br>
+**ONLY ENTER IF YOU WISH FOR COMBAT AND TO RAID OR BE RAIDED
 
 ---
 ## Tame Overhaul Mod Settings
